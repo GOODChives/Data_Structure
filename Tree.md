@@ -13,3 +13,8 @@ https://blog.csdn.net/shuangde800/article/details/7341289
 # 4.堆排序
 
 https://www.cnblogs.com/chengxiao/p/6129630.html
+
+# 5.线索化二叉树
+
+https://blog.csdn.net/qq_39295755/article/details/79535406
+
