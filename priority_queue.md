@@ -2,6 +2,8 @@
 
 https://leetcode-cn.com/problems/sliding-window-median/
 
+https://blog.csdn.net/weixin_36888577/article/details/79937886
+
 ```c++
 class DualHeap {
 private:
